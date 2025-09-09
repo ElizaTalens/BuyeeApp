@@ -64,3 +64,4 @@ Route::middleware('auth')->group(function () {
     // tes 4
     // tes 5
 });
+// hallo aku aku 
